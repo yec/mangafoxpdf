@@ -16,3 +16,8 @@ Run this:
 	python mangafoxpdf.py
 
 The pdf will be created in the current directory.
+
+Todo
+----
+
+Add title and author information, etc to pdf meta data. 
